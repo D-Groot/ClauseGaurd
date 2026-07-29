@@ -1,7 +1,6 @@
 # ClauseGuard
 
-![App Logo]([assets/screenshot.png](https://github.com/D-Groot/ClauseGaurd/blob/main/logo.png))
-
+![Alt Text](https://github.com/D-Groot/ClauseGaurd/blob/main/logo.png)
 AI-powered financial document risk analyzer. Upload a contract or invoice — get an instant risk score, plain-English summary, flagged red flags, and actionable recommendations.
 
 Built for **Dev Season of Code — Summer Edition 2026**.
